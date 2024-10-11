@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.App h1{
+  color: #ff7eb3;
+  font-size: 2rem;
+}
+
+input {
+  padding: 10px;
+  margin: 20px 0;
+  margin-bottom: 40px;
+  width: 200px;
+}
